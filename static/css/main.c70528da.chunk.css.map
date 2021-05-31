@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/ArticleList/style.css"],"names":[],"mappings":"AAAA,kBACI,eACJ","file":"main.c70528da.chunk.css","sourcesContent":[".article-list__li {\r\n    list-style: none;\r\n}\r\n"]}
